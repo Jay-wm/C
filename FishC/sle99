@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main()	
+{
+	printf("I love my Qingbao\n");
+	return 0;
+}
